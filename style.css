@@ -1,0 +1,42 @@
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+	text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+    font-weight: bolder;
+	background: lightBlue;
+    border: black 1px solid;
+    padding: 5px 5px;
+	
+}
+
+h3 {
+    font-weight: bold;
+}
+
+span{
+    background: lightBlue;
+    border: black 1px solid;
+    padding: 5px 5px;
+}
+
+p {
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+img{
+	width: 70%;
+	height: 50%;
+}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: white;
+   text-align: center;
+}
